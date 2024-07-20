@@ -36,6 +36,4 @@ return {
     },
     "nvim-telescope/telescope.nvim",
     "ThePrimeagen/harpoon",
-    "nvim-treesitter/nvim-treesitter",
-    "nvim-treesitter/playground",
-  }
+}
